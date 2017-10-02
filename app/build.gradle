@@ -3,7 +3,9 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion rootProject.compileSdkVersion
     buildToolsVersion rootProject.buildToolsVersion
-
+    lintOptions {
+        abortOnError false
+    }
     defaultConfig {
         applicationId "codepath.apps.demointroandroid"
         minSdkVersion rootProject.minSdkVersion
