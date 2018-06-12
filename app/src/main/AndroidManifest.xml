@@ -115,8 +115,12 @@
             android:label="@string/title_activity_progress_bar" >
         </activity>
         <activity
-            android:name="codepath.apps.demointroandroid.GridViewDemoActivity"
-            android:label="@string/title_activity_grid_view_demo" >
+                android:name="codepath.apps.demointroandroid.GridViewDemoActivity"
+                android:label="@string/title_activity_grid_view_demo" >
+        </activity>
+        <activity
+                android:name="codepath.apps.demointroandroid.WebViewDemoActivity"
+                android:label="@string/title_activity_web_view_demo" >
         </activity>
         <activity
             android:name="codepath.apps.demointroandroid.PersistSettingsActivity"

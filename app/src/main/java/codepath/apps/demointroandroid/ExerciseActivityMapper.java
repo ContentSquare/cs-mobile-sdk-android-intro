@@ -53,6 +53,7 @@ public class ExerciseActivityMapper {
 	  exerciseClassMap.put("chap7ex3", TimePickerDemoActivity.class); // TimePicker
 	  exerciseClassMap.put("chap7ex4", ProgressBarActivity.class); // ProgressBar
 	  exerciseClassMap.put("chap7ex5", GridViewDemoActivity.class); // GridView
+	  exerciseClassMap.put("chap7ex6", WebViewDemoActivity.class); // Webview
 	  // Chapter 8: Preferences
 	  exerciseClassMap.put("chap8ex1", PersistSettingsActivity.class); // Persist Settings
 	  // Chapter 9: ContentProviders

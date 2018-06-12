@@ -46,6 +46,7 @@
         <item>TimePicker</item>
         <item>ProgressBar</item>
         <item>GridView</item>
+        <item>WebView</item>
     </string-array>
     <string-array name="chap8">
         <item>Persist Settings</item>

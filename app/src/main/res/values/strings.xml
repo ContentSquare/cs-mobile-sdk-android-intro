@@ -29,6 +29,7 @@
     <string name="title_activity_time_picker_demo">TimePickerDemoActivity</string>
     <string name="title_activity_progress_bar">ProgressBarActivity</string>
     <string name="title_activity_grid_view_demo">GridViewDemoActivity</string>
+    <string name="title_activity_web_view_demo">WebViewDemoActivity</string>
     <string name="title_activity_persist_settings">PersistSettingsActivity</string>
     <string name="title_activity_contact_list">ContactListActivity</string>
     <string name="title_activity_publishing_instructions">PublishingInstructionsActivity</string>
